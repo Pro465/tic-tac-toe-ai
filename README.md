@@ -11,26 +11,26 @@ Then, perform the following steps:
    2. go to the `src` directory in the cloned project
    3. compile the project:
 
-      3a. in linux:
+      a. in linux:
          ```
          rustc -o main main.rs
          ```
-      3b. in windows:
+      b. in windows:
          ```
          rustc -o main.exe main.rs
          ```
    4. run the compiled binary:
 
-       4a. in linux:
+       a. in linux:
        ```
        ./main
        ```
-       4b. in windows:
+       b. in windows:
        ```
        .\main.exe
        ```
-   5. and try to beat this unbeatable tic-tac-toe monster!
+   5. and try to beat this unbeatable tic-tac-toe monster😉
 
 # Conributions
-All contributions to make the AI more powerful or fix bugs are welcome!
+All contributions to make the AI more powerful or bugfixes are welcome!
    
