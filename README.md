@@ -31,6 +31,6 @@ Then, perform the following steps:
        ```
    5. and try to beat this unbeatable tic-tac-toe monster😉
 
-# Conributions
+# Contributions
 All contributions to make the AI more powerful or bugfixes are welcome!
    
