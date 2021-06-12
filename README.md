@@ -26,5 +26,5 @@ Then, perform the following steps:
    5. and try to beat this unbeatable tic-tac-toe monster!
 
 # Conributions
-All contributions are welcome!
+All contributions to make the AI more powerful or fix bugs are welcome!
    
