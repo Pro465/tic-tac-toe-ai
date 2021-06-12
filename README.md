@@ -9,10 +9,16 @@ First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed 
 Then, perform the following steps:
    1. clone the repository using `git clone`
    2. go to the `src` directory in the cloned project
-   3. compile the project by running 
-      ```
-      rustc -o main main.rs
-      ```
+   3. compile the project:
+
+      3a. in linux:
+         ```
+         rustc -o main main.rs
+         ```
+      3b. in windows:
+         ```
+         rustc -o main.exe main.rs
+         ```
    4. run the compiled binary:
 
        4a. in linux:
@@ -21,7 +27,7 @@ Then, perform the following steps:
        ```
        4b. in windows:
        ```
-       .\main
+       .\main.exe
        ```
    5. and try to beat this unbeatable tic-tac-toe monster!
 
