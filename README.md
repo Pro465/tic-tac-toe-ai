@@ -7,7 +7,7 @@ Waste your boring time playing against an unbeatable AI powered by Minimax algor
 First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed in your machine.
 
 Then, perform the following steps:
-   1. clone the repository by using `git clone`
+   1. clone the repository using `git clone`
    2. go to the `src` directory in the cloned project
    3. compile the project by running 
       ```
