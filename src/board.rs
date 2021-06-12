@@ -32,7 +32,7 @@ impl Board{
   }
   
   //to print the board
-  fn print_board(&self)
+  pub fn print_board(&self)
   {
     for i in 0..3
     {
