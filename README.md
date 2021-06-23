@@ -1,7 +1,9 @@
 # tic-tac-toe-ai 
 __A command-line single-player game__
 
-[![Build Status](https://travis-ci.com/Pro465/tic-tac-toe-ai.svg?branch=master)](https://travis-ci.com/Pro465/tic-tac-toe-ai)
+
+
+![Build status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 When you are bored, play against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax) to pass the boring time!
 
