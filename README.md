@@ -13,11 +13,11 @@ Then, perform the following steps:
 
        a. in linux:
        ```
-       ./main
+       $ ./target/debug/tic_tac_toe_ai
        ```
-       b. in windows:
+       b. or in windows:
        ```
-       .\main.exe
+       $ .\target\debug\tic_tac_toe_ai.exe
        ```
    4. and try to beat this unbeatable tic-tac-toe monster😉
 
