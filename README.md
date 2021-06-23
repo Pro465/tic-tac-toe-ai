@@ -7,19 +7,18 @@ Waste your boring time playing against an unbeatable AI powered by [Minimax algo
 First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed in your machine.
 
 Then, perform the following steps:
-   1. clone the repository using `git clone`
-   2. build the code using `cargo build`
-   3. run the compiled binary:
-
-       a. in linux:
+1. Clone the repository using `git clone`
+2. Build the code using `cargo build`
+3. Run the compiled binary:
+  - in linux:
        ```
        $ ./target/debug/tic_tac_toe_ai
        ```
-       b. or in windows:
+  - or in windows:
        ```
        $ .\target\debug\tic_tac_toe_ai.exe
        ```
-   4. and try to beat this unbeatable tic-tac-toe monster😉
+4. and try to beat this unbeatable tic-tac-toe monster😉
 
 # Contributions
 All contributions to make the AI more powerful or bugfixes are welcome!
