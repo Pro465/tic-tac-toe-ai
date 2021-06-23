@@ -1,4 +1,5 @@
-# tic-tac-toe-ai [![Build Status](https://travis-ci.com/Pro465/tic-tac-toe-ai.svg?branch=master)](https://travis-ci.com/Pro465/tic-tac-toe-ai)
+# tic-tac-toe-ai 
+[![Build Status](https://travis-ci.com/Pro465/tic-tac-toe-ai.svg?branch=master)](https://travis-ci.com/Pro465/tic-tac-toe-ai)
 A command-line single-player game.
 
 Waste your boring time playing against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax)!
@@ -7,8 +8,14 @@ Waste your boring time playing against an unbeatable AI powered by [Minimax algo
 First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed in your machine.
 
 Then, perform the following steps:
-1. Clone the repository using `git clone`
-2. Build the code using `cargo build`
+1. Clone the repository:
+  ```
+  $ git clone https://github.com/Pro465/tic-tac-toe-ai
+  ```
+2. Build the code:
+  ```
+  $ cargo build
+  ```
 3. Run the compiled binary:
   - in linux:
        ```
