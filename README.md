@@ -1,7 +1,9 @@
-# tic-tac-toe-ai [![Build Status](https://travis-ci.com/Pro465/tic-tac-toe-ai.svg?branch=master)](https://travis-ci.com/Pro465/tic-tac-toe-ai)
-A command-line single-player game.
+# tic-tac-toe-ai 
+__A command-line single-player game__
 
-Waste your boring time playing against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax)!
+[![Build Status](https://travis-ci.com/Pro465/tic-tac-toe-ai.svg?branch=master)](https://travis-ci.com/Pro465/tic-tac-toe-ai)
+
+When you are bored, play against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax) to pass the boring time!
 
 # running the code
 First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed in your machine.
