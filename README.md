@@ -1,7 +1,7 @@
 # tic-tac-toe-ai
 A command-line single-player game.
 
-Waste your boring time playing against an unbeatable AI powered by Minimax algorithm!
+Waste your boring time playing against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax)!
 
 # running the code
 First, make sure you have [Rust](https://www.rust-lang.org) and `git` installed in your machine.

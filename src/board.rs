@@ -1,4 +1,4 @@
-//==The class where the game's important methods are stored==
+//==The struct where the game's important methods are stored==
   
 pub struct Board{
   human_first: bool,
