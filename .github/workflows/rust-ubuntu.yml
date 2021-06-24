@@ -2,9 +2,13 @@ name: Rust-Ubuntu
 
 on:
   push:
-    branches: [ master ]
+    paths:
+      - '**.rs'
+      - 'Cargo.toml'
   pull_request:
-    branches: [ master ]
+    paths:
+      - '**.rs'
+      - 'Cargo.toml'
 
 env:
   CARGO_TERM_COLOR: always
