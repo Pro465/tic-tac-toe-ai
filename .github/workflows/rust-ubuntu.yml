@@ -1,6 +1,10 @@
 name: Rust-Ubuntu
 
-on: [push,pull_request]
+on: 
+  schedule:
+    - cron: '0 0 * * 0'
+  push:
+  pull_request:
 env:
   CARGO_TERM_COLOR: always
 
