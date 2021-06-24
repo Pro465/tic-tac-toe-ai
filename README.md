@@ -3,7 +3,8 @@ __A command-line single-player game__
 
 
 
-![Build status](https://github.com/Pro465/tic-tac-toe-ai/actions/workflows/rust.yml/badge.svg)
+![Build status](https://github.com/Pro465/tic-tac-toe-ai/actions/workflows/rust-windows.yml/badge.svg)
+![Build status](https://github.com/Pro465/tic-tac-toe-ai/actions/workflows/rust-ubuntu.yml/badge.svg)
 
 When you are bored, play against an unbeatable AI powered by [Minimax algorithm](https://en.m.wikipedia.org/wiki/Minimax) to pass the boring time!
 
