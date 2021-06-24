@@ -9,8 +9,6 @@ on:
     paths:
       - '**.rs'
       - 'Cargo.toml'
-  schedule:
-    - cron: '0 0 * * *'
 env:
   CARGO_TERM_COLOR: always
 
