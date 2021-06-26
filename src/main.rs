@@ -1,7 +1,6 @@
 //==driver code==
 
-mod board;
-use board::Board;
+use tic_tac_toe_ai::Board;
 
 fn main() {
   let mut b = Board::new();
