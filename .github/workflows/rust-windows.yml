@@ -3,14 +3,17 @@ name: Rust-Windows
 on:
   schedule:
     - cron: '0 0 * * *'
+
   push:
     paths:
       - '**.rs'
       - 'Cargo.toml'
+
   pull_request:
     paths:
       - '**.rs'
       - 'Cargo.toml'
+
   workflow_dispatch:
 
 env:
