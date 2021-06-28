@@ -1,4 +1,5 @@
 # tic-tac-toe-ai 
+
 __A command-line single-player game__
 
 ![Build status](https://github.com/Pro465/tic-tac-toe-ai/actions/workflows/rust-windows.yml/badge.svg)
