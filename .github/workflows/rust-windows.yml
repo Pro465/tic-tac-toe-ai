@@ -5,12 +5,10 @@ on:
     - cron: '0 0 * * *'
   push:
     paths:
-      '**.yml'
       '**.rs'
       'Cargo.toml'
   pull_request:
     paths:
-      '**.yml'
       '**.rs'
       'Cargo.toml'
   workflow_dispatch:
